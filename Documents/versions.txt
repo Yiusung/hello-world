@@ -6,3 +6,7 @@
 X90 Software 5/19/2016 11:30 AM 99,629 KB
 
 Mobile attendance (DHL V201)523.apk
+
+Readers' Firmware (June 15th)
+F1~F2----V5.6
+F3~f6----V4.6
