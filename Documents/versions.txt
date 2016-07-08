@@ -1,7 +1,7 @@
 8903 V1.1 MX-0086V03 2016-05-11
 8906 V1.4 MX-0089V02 2016-06-02
 
-8901 and 8902 V4.0
+8901 and 8902 V4.3 (all access control unit will respond to fire alarm no matter it is in fire alarm group or not.)
 
 X90 Software 5/19/2016 11:30 AM 99,629 KB
 
